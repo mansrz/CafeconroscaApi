@@ -1,0 +1,8 @@
+*.pyc
+/cafeconrosca/settings*.py
+/cafeconrosca/wsgi*.py
+backup-file.sql
+db.sqlite3
+env/
+*~
+
